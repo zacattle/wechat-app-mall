@@ -4,7 +4,7 @@
     "urlCheck": true,
     "es6": true,
     "enhance": true,
-    "postcss": false,
+    "postcss": true,
     "preloadBackgroundData": false,
     "minified": true,
     "newFeature": true,
@@ -126,5 +126,5 @@
     "ignore": [],
     "include": []
   },
-  "projectname": "天使童装"
+  "projectname": "金鲈鱼居家服务"
 }
